@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\bin\Debug\introduce.exe.config
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\bin\Debug\introduce.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\bin\Debug\introduce.pdb
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\obj\Debug\introduce.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\obj\Debug\introduce.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\obj\Debug\introduce.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\introduce\obj\Debug\introduce.pdb

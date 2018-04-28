@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\bin\Debug\family.exe.config
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\bin\Debug\family.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\bin\Debug\family.pdb
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\obj\Debug\family.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\obj\Debug\family.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\obj\Debug\family.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\family\obj\Debug\family.pdb

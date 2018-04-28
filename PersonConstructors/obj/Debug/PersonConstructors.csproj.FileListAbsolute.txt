@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\bin\Debug\PersonConstructors.exe.config
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\bin\Debug\PersonConstructors.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\bin\Debug\PersonConstructors.pdb
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\obj\Debug\PersonConstructors.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\obj\Debug\PersonConstructors.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\obj\Debug\PersonConstructors.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PersonConstructors\obj\Debug\PersonConstructors.pdb

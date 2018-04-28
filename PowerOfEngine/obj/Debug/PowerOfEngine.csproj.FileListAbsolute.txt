@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\obj\Debug\PowerOfEngine.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\obj\Debug\PowerOfEngine.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\bin\Debug\PowerOfEngine.exe.config
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\bin\Debug\PowerOfEngine.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\bin\Debug\PowerOfEngine.pdb
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\obj\Debug\PowerOfEngine.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\PowerOfEngine\obj\Debug\PowerOfEngine.pdb

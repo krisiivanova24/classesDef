@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\bin\Debug\testClient.exe.config
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\bin\Debug\testClient.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\bin\Debug\testClient.pdb
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\obj\Debug\testClient.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\obj\Debug\testClient.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\obj\Debug\testClient.exe
+C:\Users\hristo\Desktop\OOP\classesDefinicion\testClient\obj\Debug\testClient.pdb
